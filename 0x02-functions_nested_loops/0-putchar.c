@@ -2,6 +2,7 @@
 
 /**
  * main - print _putchar
+ * is written by themokaya
  * Return: 0
  */
 
